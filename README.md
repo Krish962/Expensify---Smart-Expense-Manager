@@ -1,1 +1,1 @@
-# Expensify - Smart Expense Tracker
+"# Expensify - Smart Expense Tracker"
