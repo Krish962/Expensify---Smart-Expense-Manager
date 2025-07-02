@@ -1,4 +1,4 @@
-# Expensify+ – Smart Personal Expense Tracker
+# Personal Expense Tracker
 
 A full-stack expense tracking web application with filters, graphs, authentication, and personal insights.
 
